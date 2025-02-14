@@ -3,11 +3,11 @@ Perform an exploratory data analysis and provide actionable insights for a food 
 
 Skills & Tools Covered
 
-python
-Numpy
-Pandas
-Seaborn
-Univariate AnalysisIvariate Analysis
-Exploratory Data Analysis
-Business recommendations
-Bivariate Analysis
+#python
+#Numpy
+#Pandas
+#Seaborn
+#Univariate_Analysis
+#Bivariate_Analysis
+#Exploratory_Data_Analysis
+#Business_recommendations
